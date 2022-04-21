@@ -1,0 +1,47 @@
+body {
+    background-color: darkseagreen;
+    font-family: Montserrat;
+    position: relative;
+}
+
+
+.img-thumbnail {
+    width: 6%;
+}
+
+form {
+    margin: auto;
+    width: 60%;
+    border: 4px solid #f1f1f1;
+    background-color: bisque;
+  }
+
+  input[type=text], input[type=submit] {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+.media {
+    margin: auto;
+    margin-bottom: 2%;
+    width: 60%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+  .container {
+    margin: auto;
+    width: 60%;
+  }
+
+
+
+  .form-group {
+    margin-left: 5%;
+    margin-top: 1em;
+  }
+
